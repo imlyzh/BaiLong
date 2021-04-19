@@ -6,6 +6,4 @@ This is a TypeSafe(Structured Typing) ORM from Python and Rust implement
 
 ## Reference/引用
 
-'''
-白龙马，面朝西，轮机舱里燃烧，动力强劲
-'''
+`白龙马，面朝西，轮机舱里燃烧，动力强劲`
